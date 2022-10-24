@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hmzeeshantariq
 - 👀 I’m interested in changing Sci-fi into reality
-- 🌱 I’m currently learning all the brilliant stuff about Programming, Technology, CyberSecurity
-- 💞️ I’m working on Cool projects rn
+- 💞️ I love to learn all the brilliant stuff about Programming, Technology, CyberSecurity
+- 🌱 I work on Cool projects
 - 📫 How to reach me: just ping me on my email hmzeeshantariq@gmail.com : )
 
 <!---
